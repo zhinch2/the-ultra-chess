@@ -5,22 +5,26 @@ export default defineConfig({
   title: "UltraChess",
   description: "Documentation for UltraChess",
   head: [
-    ['link', { rel: 'icon', href: '../assets/logo2.svg' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
+  ignoreDeadLinks: true,
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '../assets/logo2.svg',
+    logo: '/logo2.svg',
     nav: [
-      { text: 'Guide', link: '/pawns' }
+      { text: 'Guide', link: '/welcome' }
     ],
-    
+    search: {
+      provider: 'local'
+    },    
 
     sidebar: [
       {
         text: 'Introduction',
         items: [
-          { text: 'Welcome to UltraChess', link: '/introduction' },
+          { text: 'Welcome to UltraChess', link: '/welcome' },
+          { text: 'Prerequisites', link: '/prerequisites' },
         ]
       },
       {

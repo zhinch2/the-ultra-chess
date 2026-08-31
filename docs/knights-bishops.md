@@ -15,13 +15,13 @@ Knights and Bishops are both lvl 2 pieces with a value of 3, which is why they a
     <tr>
         <td>
             <video autoplay muted playsinline width="100%">
-             <source src="../assets/knights-bishops/video1.mp4" type="video/mp4">
+             <source src="/assets/knights-bishops/video1.mp4" type="video/mp4">
              Your browser does not support the video tag.
             </video>
         </td>
         <td>
             <video autoplay muted playsinline width="100%">
-             <source src="../assets/knights-bishops/video2.mp4" type="video/mp4">
+             <source src="/assets/knights-bishops/video2.mp4" type="video/mp4">
              Your browser does not support the video tag.
             </video>
         </td>
@@ -34,13 +34,13 @@ As you can see from the videos below, a bishop combined with a pawn and a knight
     <tr>
         <td>
             <video autoplay muted playsinline width="100%">
-             <source src="../assets/knights-bishops/video3.mp4" type="video/mp4">
+             <source src="/assets/knights-bishops/video3.mp4" type="video/mp4">
              Your browser does not support the video tag.
             </video>
         </td>
         <td>
             <video autoplay muted playsinline width="100%">
-             <source src="../assets/knights-bishops/video4.mp4" type="video/mp4">
+             <source src="/assets/knights-bishops/video4.mp4" type="video/mp4">
              Your browser does not support the video tag.
             </video>
         </td>

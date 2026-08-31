@@ -7,12 +7,12 @@ hero:
   text: "Documentation"
   tagline: A alternate version of Chess for people who want more from their chess set.
   image:
-    src: ../assets/logo2.svg
+    src: /logoglow.svg
     alt: UltraChess logo
   actions:
     - theme: brand
       text: Get Started
-      link: /introduction
+      link: /welcome
     - theme: alt
       text: Pieces Guide
       link: /pawns
@@ -32,13 +32,13 @@ For example, if a **bishop** (Lvl 2, Value 3) combines with a **pawn** (Lvl 1, V
 * **[Pawns](/pawns)** = Level 1 (Value 1)
 * **[Knights/Bishops](/knights-bishops)** = Level 2 (Value 3)
 * **[Rooks](/rooks)** = Level 3 (Value 5)
-* **[Queens](/queens)** = Level 4 (Value 9)
-* **[Ultra Queens](/ultraqueens)** = Level 5 (Value 15)
+* **[Queens](/queens-ultraqueens)** = Level 4 (Value 9)
+* **Ultra Queens** = Level 5 (Value 15)
 
 ## Example Play
 
 <video autoplay muted playsinline width="30%" controls>
-  <source src="../assets/home/video1.mp4" type="video/mp4">
+  <source src="/assets/home/video1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

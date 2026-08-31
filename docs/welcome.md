@@ -19,6 +19,6 @@ For example, if a **bishop** (Lvl 2, Value 3) combines with a **pawn** (Lvl 1, V
 ## Example Play
 
 <video autoplay muted playsinline width="50%" controls>
-  <source src="../assets/home/video1.mp4" type="video/mp4">
+  <source src="/assets/home/video1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
